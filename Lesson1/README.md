@@ -13,9 +13,9 @@ Any Successful algorithm should be having the following features:
 3. Scaling to different functions is possible with multiple hidden layers in the neural network. May not be possible with one hidden layer.
 
 
-*CNN have linear layers to do matrix manipulations.
-*Use any kind of non-linear functions to get non linear layers.. Ex:- Sigmoid, ReLU, etc
-*Gradient descent is used to get the minimum in  the curve.
+* CNN have linear layers to do matrix manipulations.
+* Use any kind of non-linear functions to get non linear layers.. Ex:- Sigmoid, ReLU, etc
+* Gradient descent is used to get the minimum in  the curve.
 
 These three will constitute to CNN Architecture
 
